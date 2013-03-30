@@ -1,5 +1,5 @@
 // Dependencies 
-var http 		= require('http');
+var http 	= require('http');
     request = require('request');
 
 // Talk to another server
