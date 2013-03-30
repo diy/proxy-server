@@ -1,0 +1,19 @@
+{
+  "name": "proxy-server",
+  "version": "0.0.0",
+  "description": "proxy server for diy api",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "node proxy.js"
+  },
+  "repository": "",
+  "keywords": [
+    "proxy",
+    "diy"
+  ],
+  "author": "jllord",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.16.6"
+  }
+}
