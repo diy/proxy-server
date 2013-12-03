@@ -1,6 +1,6 @@
 // Dependencies 
-var http 	= require('http');
-    request = require('request');
+var http 	= require('http'),
+    request     = require('request');
 
 // Talk to another server
 function proxyHandler(req, res) {
